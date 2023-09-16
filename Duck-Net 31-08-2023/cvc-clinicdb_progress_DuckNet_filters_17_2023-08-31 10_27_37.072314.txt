@@ -1,0 +1,500 @@
+epoch: 0
+val_loss: 0.6755076
+test_loss: 0.65678924
+
+
+epoch: 1
+val_loss: 0.7454807
+test_loss: 0.73031545
+
+
+epoch: 2
+val_loss: 0.63550353
+test_loss: 0.62079346
+
+
+epoch: 3
+val_loss: 0.6191776
+test_loss: 0.6007793
+
+
+epoch: 4
+val_loss: 0.6043801
+test_loss: 0.6055223
+
+
+epoch: 5
+val_loss: 0.60344845
+test_loss: 0.5858729
+
+
+epoch: 6
+val_loss: 0.55905163
+test_loss: 0.5754299
+
+
+epoch: 7
+val_loss: 0.5826552
+test_loss: 0.63250345
+
+
+epoch: 8
+val_loss: 0.49581707
+test_loss: 0.5562233
+
+
+epoch: 9
+val_loss: 0.5517982
+test_loss: 0.6015162
+
+
+epoch: 10
+val_loss: 0.50185084
+test_loss: 0.51858085
+
+
+epoch: 11
+val_loss: 0.4805599
+test_loss: 0.46205753
+
+
+epoch: 12
+val_loss: 0.45890927
+test_loss: 0.4592774
+
+
+epoch: 13
+val_loss: 0.4439482
+test_loss: 0.45734137
+
+
+epoch: 14
+val_loss: 0.4013675
+test_loss: 0.41378635
+
+
+epoch: 15
+val_loss: 0.41992205
+test_loss: 0.3928969
+
+
+epoch: 16
+val_loss: 0.38953257
+test_loss: 0.38721508
+
+
+epoch: 17
+val_loss: 0.36289197
+test_loss: 0.382132
+
+
+epoch: 18
+val_loss: 0.38716495
+test_loss: 0.38496023
+
+
+epoch: 19
+val_loss: 0.39687532
+test_loss: 0.38294
+
+
+epoch: 20
+val_loss: 0.32162863
+test_loss: 0.32314026
+
+
+epoch: 21
+val_loss: 0.3606211
+test_loss: 0.38411045
+
+
+epoch: 22
+val_loss: 0.30781376
+test_loss: 0.33087826
+
+
+epoch: 23
+val_loss: 0.39354932
+test_loss: 0.35276806
+
+
+epoch: 24
+val_loss: 0.39692086
+test_loss: 0.3447408
+
+
+epoch: 25
+val_loss: 0.27398545
+test_loss: 0.29644668
+
+
+epoch: 26
+val_loss: 0.30127507
+test_loss: 0.3138008
+
+
+epoch: 27
+val_loss: 0.26232308
+test_loss: 0.26852715
+
+
+epoch: 28
+val_loss: 0.27180433
+test_loss: 0.2707839
+
+
+epoch: 29
+val_loss: 0.27477252
+test_loss: 0.30899602
+
+
+epoch: 30
+val_loss: 0.28194535
+test_loss: 0.27631062
+
+
+epoch: 31
+val_loss: 0.23945117
+test_loss: 0.2742219
+
+
+epoch: 32
+val_loss: 0.22510421
+test_loss: 0.255454
+
+
+epoch: 33
+val_loss: 0.2971275
+test_loss: 0.2648931
+
+
+epoch: 34
+val_loss: 0.25096208
+test_loss: 0.27161753
+
+
+epoch: 35
+val_loss: 0.28029954
+test_loss: 0.30513513
+
+
+epoch: 36
+val_loss: 0.24720442
+test_loss: 0.27605057
+
+
+epoch: 37
+val_loss: 0.25152665
+test_loss: 0.2843359
+
+
+epoch: 38
+val_loss: 0.27016824
+test_loss: 0.29389173
+
+
+epoch: 39
+val_loss: 0.22673434
+test_loss: 0.22281235
+
+
+epoch: 40
+val_loss: 0.22698683
+test_loss: 0.25635415
+
+
+epoch: 41
+val_loss: 0.26125956
+test_loss: 0.27838367
+
+
+epoch: 42
+val_loss: 0.23052847
+test_loss: 0.24082053
+
+
+epoch: 43
+val_loss: 0.22889131
+test_loss: 0.27524406
+
+
+epoch: 44
+val_loss: 0.23808968
+test_loss: 0.22684652
+
+
+epoch: 45
+val_loss: 0.2272892
+test_loss: 0.2368213
+
+
+epoch: 46
+val_loss: 0.27347153
+test_loss: 0.28098917
+
+
+epoch: 47
+val_loss: 0.23376977
+test_loss: 0.2590145
+
+
+epoch: 48
+val_loss: 0.18740284
+test_loss: 0.20947462
+
+
+epoch: 49
+val_loss: 0.20823354
+test_loss: 0.21689832
+
+
+epoch: 50
+val_loss: 0.16100633
+test_loss: 0.19270927
+
+
+epoch: 51
+val_loss: 0.20215523
+test_loss: 0.21490908
+
+
+epoch: 52
+val_loss: 0.2944829
+test_loss: 0.29963952
+
+
+epoch: 53
+val_loss: 0.20560616
+test_loss: 0.2193687
+
+
+epoch: 54
+val_loss: 0.22786999
+test_loss: 0.20011026
+
+
+epoch: 55
+val_loss: 0.19089013
+test_loss: 0.23720193
+
+
+epoch: 56
+val_loss: 0.19074386
+test_loss: 0.19844884
+
+
+epoch: 57
+val_loss: 0.2085867
+test_loss: 0.2157011
+
+
+epoch: 58
+val_loss: 0.20257509
+test_loss: 0.2195065
+
+
+epoch: 59
+val_loss: 0.18619859
+test_loss: 0.19395375
+
+
+epoch: 60
+val_loss: 0.21456426
+test_loss: 0.21521902
+
+
+epoch: 61
+val_loss: 0.18346179
+test_loss: 0.18991506
+
+
+epoch: 62
+val_loss: 0.21490896
+test_loss: 0.20394623
+
+
+epoch: 63
+val_loss: 0.17439151
+test_loss: 0.18717623
+
+
+epoch: 64
+val_loss: 0.17601174
+test_loss: 0.19961804
+
+
+epoch: 65
+val_loss: 0.17993027
+test_loss: 0.20346594
+
+
+epoch: 66
+val_loss: 0.20487899
+test_loss: 0.1751318
+
+
+epoch: 67
+val_loss: 0.18990481
+test_loss: 0.24557346
+
+
+epoch: 68
+val_loss: 0.16283119
+test_loss: 0.16969723
+
+
+epoch: 69
+val_loss: 0.16665143
+test_loss: 0.15379775
+
+
+epoch: 70
+val_loss: 0.22900349
+test_loss: 0.16826135
+
+
+epoch: 71
+val_loss: 0.2093978
+test_loss: 0.16975433
+
+
+epoch: 72
+val_loss: 0.17227888
+test_loss: 0.18294483
+
+
+epoch: 73
+val_loss: 0.16945821
+test_loss: 0.18167359
+
+
+epoch: 74
+val_loss: 0.17958224
+test_loss: 0.15954733
+
+
+epoch: 75
+val_loss: 0.20056945
+test_loss: 0.17206597
+
+
+epoch: 76
+val_loss: 0.17651272
+test_loss: 0.1618647
+
+
+epoch: 77
+val_loss: 0.14892495
+test_loss: 0.15206641
+
+
+epoch: 78
+val_loss: 0.21941859
+test_loss: 0.25373262
+
+
+epoch: 79
+val_loss: 0.17910129
+test_loss: 0.16216296
+
+
+epoch: 80
+val_loss: 0.16321194
+test_loss: 0.14046317
+
+
+epoch: 81
+val_loss: 0.14546746
+test_loss: 0.13457453
+
+
+epoch: 82
+val_loss: 0.15000826
+test_loss: 0.18534261
+
+
+epoch: 83
+val_loss: 0.14634871
+test_loss: 0.14937913
+
+
+epoch: 84
+val_loss: 0.15418655
+test_loss: 0.15485758
+
+
+epoch: 85
+val_loss: 0.14382237
+test_loss: 0.14227307
+
+
+epoch: 86
+val_loss: 0.17151338
+test_loss: 0.19010311
+
+
+epoch: 87
+val_loss: 0.16067934
+test_loss: 0.16175109
+
+
+epoch: 88
+val_loss: 0.1545856
+test_loss: 0.1593582
+
+
+epoch: 89
+val_loss: 0.13617617
+test_loss: 0.1461373
+
+
+epoch: 90
+val_loss: 0.12150425
+test_loss: 0.14717847
+
+
+epoch: 91
+val_loss: 0.15099883
+test_loss: 0.1883449
+
+
+epoch: 92
+val_loss: 0.15299076
+test_loss: 0.1748383
+
+
+epoch: 93
+val_loss: 0.1765098
+test_loss: 0.19665772
+
+
+epoch: 94
+val_loss: 0.14022559
+test_loss: 0.1559329
+
+
+epoch: 95
+val_loss: 0.15307534
+test_loss: 0.15163118
+
+
+epoch: 96
+val_loss: 0.1624726
+test_loss: 0.16643566
+
+
+epoch: 97
+val_loss: 0.15864074
+test_loss: 0.15946561
+
+
+epoch: 98
+val_loss: 0.14745551
+test_loss: 0.14651239
+
+
+epoch: 99
+val_loss: 0.126396
+test_loss: 0.13825577
+
+
