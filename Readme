@@ -1,1 +1,3 @@
-This project focuses on comparing two image segmentation networks. 
+This project focuses on comparing two image segmentation networks, U-NET (a classical network) and Duck-NET (a relatively recent network), by training both networks on a CVC-ClinicDB Dataset available at Kaggle (https://www.kaggle.com/datasets/balraj98/cvcclinicdb)
+.ipynb files for both models are present in separate folders where the training can be followed and output can be seen
+Another .ipynb file for comparison is provided, where a side-by-side comparison is made for the outcomes of both the trained networks.
